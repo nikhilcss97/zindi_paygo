@@ -114,7 +114,7 @@ website. For CentOS, you can visit [this](https://computingforgeeks.com/install-
   ```bash
   pipenv install <package_name> --dev
   ```
-* To run a jupyter notebook, run the following,
+* To run a jupyter notebook, run the following,,
   ```bash
   pipenv run jupyter notebook
   ```
